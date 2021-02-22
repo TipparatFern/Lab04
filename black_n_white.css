@@ -1,48 +1,46 @@
+.container {
+    background-color: gray;
+    margin: 50px 630px 10px 630px;
+    padding: 20px 10px 20px 10px;
+}
 .row1 .black{
     background-color: black;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
 .row1 .white{
     background-color: white;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
 .row1change .black{
     background-color: black;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
 .row1change .white{
     background-color: white;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
 .row2 .black{
     background-color: black;
-    border-color: white;
+    border-color: gray;
     height: 100px;
     width: 100px;
 }
 .row2 .white{
     background-color: white;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
 .row2change .black{
     background-color: black;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
 .row2change .white{
     background-color: white;
-    border-color: white;
     height: 100px;
     width: 100px;
 }
