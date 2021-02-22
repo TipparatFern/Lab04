@@ -1,10 +1,46 @@
-.black{
+.row1 .black{
     background-color: black;
     border-color: white;
     height: 100px;
     width: 100px;
 }
-.white{
+.row1 .white{
+    background-color: white;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+}
+.row1change .black{
+    background-color: black;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+}
+.row1change .white{
+    background-color: white;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+}
+.row2 .black{
+    background-color: black;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+}
+.row2 .white{
+    background-color: white;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+}
+.row2change .black{
+    background-color: black;
+    border-color: white;
+    height: 100px;
+    width: 100px;
+}
+.row2change .white{
     background-color: white;
     border-color: white;
     height: 100px;
